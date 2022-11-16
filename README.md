@@ -1,6 +1,8 @@
 # IBM-Project-16010-1659606642
 Emerging Methods for Early Detection of Forest Fires
 
+Demo link: https://deep-wind-forestfire-prediction-app-gtu5h4.streamlit.app/
+
 <img width="812" alt="image" src="https://user-images.githubusercontent.com/78983104/202232063-9d1dc479-2d74-409c-aade-518089df84ba.png">
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/78983104/202232672-999bc782-985b-4e9f-9352-fe4fc4113418.png">
