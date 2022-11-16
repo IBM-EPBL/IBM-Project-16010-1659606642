@@ -17,4 +17,5 @@ https://user-images.githubusercontent.com/78983104/202234852-fbd3b96f-29f7-4a1b-
 
 https://user-images.githubusercontent.com/78983104/202234486-57d2485b-4ce5-4b36-8fb7-a8407920672b.mp4
 
-![Screenshot_20221116-215145_Messages](https://user-images.githubusercontent.com/78983104/202237271-ae30d726-8f16-4f6e-99e5-a3cbd8999274.jpg)
+
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/78983104/202237271-ae30d726-8f16-4f6e-99e5-a3cbd8999274.jpg">
